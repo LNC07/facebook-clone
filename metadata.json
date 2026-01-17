@@ -1,0 +1,8 @@
+{
+  "name": "FB Lite Clone",
+  "description": "A high-performance, lightweight social media interface inspired by Facebook Lite, featuring a real-time feed, messaging, and AI-powered interactions.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
